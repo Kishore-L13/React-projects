@@ -94,7 +94,6 @@ h1{
   align-items: center;
   padding: 5px;
   color: white;
-  border: none;
   border-radius: 8px;
   cursor: pointer;
   font-size: 15px;
@@ -120,4 +119,24 @@ h1{
 .trash-btn:hover .paper {
   top: 15px;
   opacity: 1;
+}
+
+.edit-btn, .save-btn {
+  align-items: center;
+  padding: 5px;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: bold;
+  box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+
+.edit-btn:hover {
+  background-color: #6842f4;
+}
+
+.save-btn:hover {
+  background-color: #0bda42;
 }
