@@ -1,4 +1,5 @@
 import AutoSuggestDropdown from './autosuggest'
+import Cricle from './Cricle'
 import CustomGrid from './CustomGrid'
 
 
@@ -9,6 +10,7 @@ function App() {
       <div>
         <AutoSuggestDropdown/>
         <CustomGrid/>
+        <Cricle/>
         </div>
     </>
   )
