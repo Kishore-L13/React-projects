@@ -8,7 +8,7 @@ function App() {
     <>
       <div>
         <AutoSuggestDropdown/>
-        {/* <CustomGrid/> */}
+        <CustomGrid/>
         </div>
     </>
   )
