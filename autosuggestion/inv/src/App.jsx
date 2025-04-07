@@ -1,4 +1,5 @@
 import AutoSuggestDropdown from './autosuggest'
+import CustomGrid from './CustomGrid'
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <>
       <div>
         <AutoSuggestDropdown/>
+        {/* <CustomGrid/> */}
         </div>
     </>
   )
