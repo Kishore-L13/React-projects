@@ -1,6 +1,7 @@
 import AutoSuggestDropdown from './autosuggest'
 import Cricle from './Cricle'
 import CustomGrid from './CustomGrid'
+import "./app.css";
 
 
 function App() {
