@@ -3,6 +3,7 @@ import Cricle from './Cricle'
 import CustomGrid from './CustomGrid'
 import "./app.css";
 import Weather_app from './Weather_app';
+import Table from './Tabel';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
         <CustomGrid/>
         <Cricle/>
         <Weather_app/>
+        <Table/>
         </div>
     </>
   )
